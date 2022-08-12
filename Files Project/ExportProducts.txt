@@ -1,0 +1,7 @@
+1 Apple 200 del 1/1/2024 Fruits 10$ 2% 2week 
+2 orange 300 juice 1/1/2025 Fruits 15$ 3% 2week 
+3 meat 500 steak 2/2/2024 Meat 30$ 5% 3week 
+4 chocolate 60 sugar 1/1/2022 Dessert 25$ 2% 7days 
+5 lobstar 350 seafood 1/1/2023 Fish 60$ 2% 3weeks 
+6 kkkkkkk 200 juice 1/1e3 Fruits 20$ 20 1/12 
+7 peach 300 juice 1/1/2024 Fruits 40$ 5% 1/1/2024 
